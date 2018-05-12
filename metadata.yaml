@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6112'
     url: http://www.gutenberg.org/2009/agents/6112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15538#Hetty-Gray--13-Nobody-s-Bairn
 gutenberg_issued: '2005-04-04'
 gutenberg_type: Text
 identifiers:
